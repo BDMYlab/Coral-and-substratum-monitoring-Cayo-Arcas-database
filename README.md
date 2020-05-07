@@ -10,13 +10,13 @@ Datos de monitoreo de corales y sustrato recolectados del 26 de abril al 4 de ma
 Esta información es parte del laboratorio de investigación BDMY (Biodiversidad Marina de Yucatán).
 Por favor, cite la información de esta base de datos como: "Padierna-López M, Hernández-Díaz YQ and Simões N (2020). Coral and substratum monitoring Cayo Arcas 2019 database.”
 Agradecimientos:
-	Universidad Nacional Autónoma de México (UNAM).
-	Unidad Multidisciplinaria de Docencia e Investigación-Sisal, Facultad de Ciencias, UNAM.
-	Harte Charitable Foundation.
-	Harte Research Institute for Gulf of Mexico Studies.
-	Estación de Investigación Oceanográfica Carmen. 7ma Zona Naval. Dirección General de Investigación y Desarrollo. Secretaría de Marina.
-	BI-04 Antares, Secretaría de Marina.
-	Capitán Antares BI-04: Cap. Frag. C. G. Jorge Abraham Martínez Vázquez, Secretaría de Marina.
-	Jefe de Campaña Oceanográfica: Tte. Nav. SMAM. Edwalt Hernández Torralba, Secretaría de Marina.
+Universidad Nacional Autónoma de México (UNAM).
+Unidad Multidisciplinaria de Docencia e Investigación-Sisal, Facultad de Ciencias, UNAM.
+Harte Charitable Foundation.
+Harte Research Institute for Gulf of Mexico Studies.
+Estación de Investigación Oceanográfica Carmen. 7ma Zona Naval. Dirección General de Investigación y Desarrollo. Secretaría de Marina.
+BI-04 Antares, Secretaría de Marina.
+Capitán Antares BI-04: Cap. Frag. C. G. Jorge Abraham Martínez Vázquez, Secretaría de Marina.
+Jefe de Campaña Oceanográfica: Tte. Nav. SMAM. Edwalt Hernández Torralba, Secretaría de Marina.
 
 
