@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3814516.svg)](https://doi.org/10.5281/zenodo.3814516)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3814516.svg)](https://doi.org/10.5281/zenodo.3814515)
 # Coral-and-substratum-monitoring-Cayo-Arcas-database
 English
 Coral and substratum monitoring data collected on April 26th to May 4th, 2019 in Cayo Arcas reef, southern Gulf of Mexico. Were sampled 17 sites with depths between 0.8-12.0 m. At each site, two transects (25 m) were placed. The benthic coverage category below the line every 25 cm was registered. Eighteen categories were used to describe the benthic coverage, which were established according to the categories of the Atlantic and Gulf Rapid Reef Assessment (AGRRA) project. At each sampling site, two-band transects 10 m long by 1 m wide were made to scleractinian coral monitoring. Were sampled a total area of 340 m2. All colonies greater than 4 cm in length were recorded. We recorded a total of 25 scleractinian coral species.
